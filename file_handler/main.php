@@ -1,6 +1,6 @@
 <?
 /**
- * Main class for file_handler
+ * Copyright (C) 2020  Pekaby.
  */
 class file_handler
 {
