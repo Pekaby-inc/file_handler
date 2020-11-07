@@ -27,7 +27,7 @@ abstract class debug_module
     {
         return end($this->errors);
     }
-    // im too stupid for making algorithms
+    // I'm too stupid for making algorithms
     public final function get_usr_id()
     {
         return $this->un_id;
